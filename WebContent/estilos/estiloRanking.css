@@ -1,0 +1,60 @@
+ @charset "UTF-8";
+ 
+ 
+ #interface{
+	width: 800px;
+	margin-left:50%; 
+} 
+
+#interface p{
+	text-align : center;
+}
+
+h2 #assinatura{
+	font-size: 10px;
+}
+
+.foto-principal{	
+	
+	border: 8px solid white;
+	box-shadow: 1px 1px 4px black;
+	width: 800px;
+	height: 600px;
+	padding: 3px;		
+	position: relative; 
+    top:50%;     
+    left:50%;
+    margin-left:-400px; /* ou seja ele pega 50% da largura tela e diminui  metade do valor da largura no caso 250 */		
+	z-index: -1;
+}
+
+#interface{
+	
+	border: 6px solid black; 
+	box-shadow: 1px 1px 4px black; 	 
+	margin:5px; 	
+	background-color: #666666;
+	padding-left:1%; 
+	position: relative; 
+    top:50%;     
+    left:50%;
+    margin-left:-400px; /* ou seja ele pega 50% da largura tela e diminui  metade do valor da largura no caso 250 */		
+		
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#interface img{
+
+	padding-left:8%;
+	
+}
+
+.ranking{
+	margin-left: 1%;
+	max-height: 50%;
+	max-width:  80%;
+}

@@ -1,0 +1,122 @@
+IGBb - Internet Game Database
+
+Grupo
+Caique Campos Santos
+Iuri Brindeiro
+Vivianny Santos
+Diego Harrison
+Alexsandro Andrade
+
+Caique Campos Santos
+ * Index
+ * Login
+ * Cadastro Novidades
+ * Cadastro Principal
+ * estilos/styleAuxiliar
+ * estilos/styleBody
+ * estilos/styleHeader
+ * estilos/styleFormPostagem
+ * scripts/validaLogin
+ * scripts/validaPost
+
+Iuri Brindeiro
+ * Cadastro Jogos
+ * Alterações em todas as páginas de jogos PC/Console.
+ * estilos/EstiloCadastos/style
+ * estilos/EstiloCadastos/cadastro
+ * Alterações em Scripts(criação de funcoes: validaForm(), limparErro())
+
+Vivianny ROCHELLY dos Santos Vieira	
+ * Cadastro de Usu�rio.
+ * paginasSecundarias/Scripts/Scripts
+ * Configura��es (CSS) das p�ginas de jogos. 
+ * Configura��o do estilo "styleTodosJogos".
+ * Cria��o dos Scripts "formatar" em scripts/Scripts.
+ * Cria��o da p�gina "todosJogos".
+ * Cria��o da p�gina "cadastroDesenvolvedores".
+
+Vivianny Santos / Caique Santos 
+ * Liga��o das p�ginas.
+
+Iuri Brindeiro / Vivianny Rochelly
+ * Cria��o de todas as paginas secundarias.
+ 
+ Francisco Alexsandro de Andrade
+ *CadastroJogosCel - HTML/CSS/JS
+ *RankingJogos - HTML/CSS
+ *Novidades2016 = HTML/CSS
+
+Diego Harrison de Sousa Mesquita
+ * Produtoras - HTML
+ * Produtoras_Ricas - HTML
+ * estiloProdutoras - CSS
+ * estiloProdutorasRicas - CSS
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------Valida��o de formulario------------
+
+Vivianny Santos:
+
+ * Uso de html5 para validar a p�gina cadastro de usu�rio - nos campos "nome","Data de Nascimento","telefone", "CEP","Endere�o de E-mail" e "Senha".
+
+Iuri Brindeiro:
+
+ * Valida��o na p�gina cadastroJogos - nos os campos Nome,Data de Lan�amento, Desenvolvedores, Plataformas, Modos de Jogo e Classifica��o.
+
+ * Valida��o na p�gina cadastroDesenvolvedores - nos os campos "Nome","Data de funda��o", "Fundador","sede","Quantidade de empregados","Produto"
+
+Francisco Alexsandro:
+
+ * Valida��o na p�gina cadastroJogosCel - nos os campos "Nome","Data de Lan�amento".
+
+Caique Campos:
+
+ * Valida��o na p�gina cadastroNovidades - nos os campos "Titulo" e "Conteudos da postagem".
+
+ * Valida��o na p�gina login - nos os campos "login" e "senha".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

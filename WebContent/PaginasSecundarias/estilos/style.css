@@ -1,0 +1,140 @@
+/*
+	Authoress: Vivianny Santos;
+	Modificado: 13/03/2016
+*/
+
+/********************************************************************
+	Configurações das paginas de games Authoress: Vivianny Santos;
+********************************************************************/
+
+.materias img {
+    max-width: 40%;
+    max-height: 30%;
+}
+
+a {
+	text-decoration: none;    
+    display: block;
+	color: #000;
+}
+
+.materias {
+    padding: 2%;
+}
+
+aside{
+	width: 20%;
+	height: 100%;
+	margin-right: 2%;
+	margin-left: 0%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	background: #e0e0e0;
+	min-height: 500px;
+	float:right;
+
+}
+
+.button
+{
+	margin: 4px;
+	color: #fff;
+	border: none;
+	width: 120px;
+	height: 40px;
+	font-size: 15px;
+	border-radius: 5px;
+	background: #212121;
+	box-shadow:0px 2px 1px 0px;
+	margin-left: 40%;
+}
+
+.button:hover
+{
+	background: #FF0000;
+
+}
+
+.button:active
+{
+	box-shadow:0px 0px 1px 0px;
+}
+
+#conteudo h4{
+	display: inline;
+	margin-left: 1%;
+}
+
+#descricaoJogo{
+
+	margin-left: 1%;
+}
+
+
+#conteudo p {
+	padding: 1%;
+	text-align: center;
+}
+
+#ipaginaJogos div img{
+
+	margin-top: 30px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 30px;
+
+}
+
+#conteudo #tituloPostagem {
+	text-align:center;
+}
+
+#conteudo{
+	
+	width: 50%;
+	height: 100%;	
+	margin-left: 8%;
+	float:left;
+	
+}
+
+#conteudo h4{
+	
+	text-align:left;
+	margin-left: 2%;	
+
+}
+
+#comentario{
+	
+	margin-left: 1%;
+	width: 600px;
+	height: 200px;
+}
+
+#colunaNoticia{
+	
+	margin-top: 1%;
+	float:right;
+	width: 250px;
+	height: 600px;
+		
+}
+
+.imgtr
+{
+	margin-left: 2px;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+#conteudo #iCabal{
+	
+	width:  540px;
+	height: 250px;
+	padding-left:6%;
+}
+
+

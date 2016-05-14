@@ -1,0 +1,24 @@
+﻿/*******************************************************************************
+	Configurações padrão de sessão principal e footer Author: Caique Campos;
+******************************************************************************/
+
+#mainContent
+{
+	width: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#mainFooter{
+	clear: both;
+	bottom: 0px;
+	width: 100%;
+	text-align: center;
+	padding: relative;
+	padding-top: 5%;
+}
+
+#cadUsuario #mainFooter {
+
+	margin-top: 70px;
+}

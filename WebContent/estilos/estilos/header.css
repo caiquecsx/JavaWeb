@@ -1,0 +1,78 @@
+/*
+	Author: Caique Campos Santos;
+	Modificado: 02/03/2014
+*/
+
+/****************************************************************
+	Area responsavel pelo conteudo do header 
+*****************************************************************/
+
+#mainHeader
+{
+	min-height: 40px;
+}
+
+#mainHeader nav ul li 
+{
+	float : left;
+}
+
+#mainHeader nav
+{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	min-height: 30px;
+	background: #212121;
+}
+
+#mainHeader nav ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#mainHeader nav ul li a
+{
+	display: block;
+	text-align: center;
+	padding: 12px 16px;
+	text-decoration: none;
+	color: #FFF;
+}
+
+#mainHeader nav ul li a:hover
+{
+	background: #D50000;
+}
+
+#mainHeader nav ul ul
+{
+	float: right;
+}
+
+#mainHeader h1
+{
+	clear: both;
+	margin-top: 60px;
+}
+
+#headerTitle
+{
+	width: 100%;
+}
+
+#headerTitle
+{
+	margin-left: 5%;
+}
+
+.icons
+{
+	display: block;
+	width: 19px;
+	height: 19px;
+}

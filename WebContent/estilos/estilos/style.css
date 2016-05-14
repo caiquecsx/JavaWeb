@@ -1,0 +1,179 @@
+/*
+	Authoress: Vivianny Santos;
+	Modificado: 13/03/2016
+*/
+
+/****************************************************************
+	Configurações do form Authoress: Vivianny Santos;
+*****************************************************************/
+
+input[type="text"], select{
+	height: 22px;
+}
+
+fieldset {
+	border: 1px solid;
+	border-radius: 4px;			
+	width: 96%;
+}
+
+
+
+/********************************************************************
+	Configurações das paginas de games Authoress: Vivianny Santos;
+********************************************************************/
+
+body{
+	width: 99%;
+	height: 100%;
+
+}
+
+
+#ipaginaJogos div img{
+
+	margin-top: 30px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 30px;
+
+}
+
+#conteudo p{
+	padding: 3%;
+	text-align: center;
+}
+
+#conteudo,#todosJogos{
+	width: 50%;
+	height: 100%;
+	margin-left: 8%;
+	float:left;
+	
+}
+
+#conteudo h4{
+	display: inline;
+	margin-left: 1%;
+}
+
+#descricaoJogo{
+
+	margin-left: 4%;
+}
+
+#conteudo #tituloPostagem {
+	text-align:center;
+}
+
+#comentario{
+	
+	margin-left: 5%;
+	width: 	600px;
+	height: 200px;
+}
+
+#iBotaoConfirmar{
+	margin-left: 41%;
+}
+
+#colunaNoticia{
+	
+	margin-top: 1%;
+	float:right;
+	width: 250px;
+	height: 600px;
+		
+}
+
+#conteudo  #iCabal{
+
+	width: 	600px;
+	height: 300px;
+}
+
+.imgtr
+{
+	margin-left: 2%;
+	max-height: 100%;
+	max-width:  100%;
+}
+
+.lista li
+{
+	list-style-type: none;
+}
+
+
+.lista li a
+{
+	list-style-type: none;
+	text-decoration: none;
+	color:black;
+}
+
+.lista li a:hover
+{
+	color:red;
+}
+
+
+/**************************************************************************
+	Configurações da pagina de todos os jogos  Authoress: Vivianny Santos;
+**************************************************************************/
+
+#todosJogos h1{
+	
+	padding-top:5%;
+}
+
+.listaJogos{
+
+	width: 680px;
+	height: 140px;
+	min-height: 40%;
+	min-width: 190px;
+
+}
+
+.listaJogos img{
+	width:  30%;
+	height: 30%;
+	float:left;
+}
+
+.listaJogos a{
+	display: block;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+#interface{
+	
+	width: 800px;
+	margin:100;
+	padding:100;
+	text-align: center;
+	
+} 
+	
+p{
+	text-align : center;
+		
+}
+
+/*Formatacao de imagens com legenda*/
+
+h2.assinatura{
+	
+	font-size: 12px;
+	
+}
+
+.foto-principal{
+	
+	border: 8px solid white;
+	box-shadow: 1px 1px 4px black;
+	width:800px; /* Tamanho da Largura da Div */
+	height:351px; /* Tamanho da Altura da Div */
+    position: relative; 
+    top:50%;     
+    left:50%;
+    margin-left:-400px; /* ou seja ele pega 50% da largura tela e diminui  metade do valor da largura no caso 250 */		
+	z-index: -1;
+	
+}
+
+#interface{
+	
+	display: block;
+	float: left;
+	border: 2px solid black; 
+	box-shadow: 1px 1px 4px black; 	 
+	margin:9px; 	
+	background-color: #666666;
+	padding: 6px; 
+	position: relative; 
+    top:50%;     
+    left:50%;
+    margin-left:-400px; /* ou seja ele pega 50% da largura tela e diminui  metade do valor da largura no caso 250 */		
+	z-index: -1;
+	
+}
+
+#interface.meses {	
+	
+	border: 8px solid white;
+	box-shadow: 1px 1px 4px black;
+	width: 700px;
+	height: 393px;
+	padding: 3px;		
+	
+}
+
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+
+
+

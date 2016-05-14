@@ -1,0 +1,210 @@
+/*********************************************************************
+Configurações do layout de duas colunas e footer
+Author: Caique Campos;
+*********************************************************************/
+
+a{
+	color: #000;	
+}
+
+#col1{
+	width: 100%;
+	height: 80%;
+	margin-left: 2%;
+	min-height: 500px;
+	float: left;
+	padding-bottom: 10px;
+}
+
+aside{
+	width: 20%;
+	height: 80%;
+	min-height: 500px;
+	float:right;
+}
+
+#mainContent{
+	width: 70%;
+	height: 100%;
+	background: #E0E0E0;
+	float: left;
+}
+/*********************************************************************
+Configurações das postagens e materias do aside
+Author: Caique Campos;
+*********************************************************************/
+
+.posts{
+	width:90%;
+	height: 30%;
+	min-width: 300px;
+	min-height: 100px;
+	float: left;
+	margin-top: 10px;
+	padding-bottom: 19px;
+}
+
+.posts a{
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+.posts p {
+	width: 100%;
+	height: 100%;
+}
+
+.posts h1{
+	margin-left: 2%;
+	width: 100%;
+}
+
+.posts img
+{
+	max-width: 150px;
+	max-height: 150px;
+	margin: auto;
+	display: block;
+	float: left;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.posts:hover{
+	text-decoration: underline;
+}
+
+aside{
+	width: 20%;
+	height: 100%;
+	margin-right: 2%;
+	margin-left: 0%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	background: #9E9E9E;
+}
+
+.materias{
+	padding: 2%;
+}
+
+.materias img{
+	max-width: 40%;
+	max-height: 30%;
+}
+
+.materias a{
+	text-decoration: none;
+	color: #000;
+	display: block;
+}
+
+.materias:hover{
+	text-decoration: underline;
+}
+
+.searchBar{
+	padding: 2%;
+}
+
+.searchBar input{
+	width: 100%;
+}
+
+.button{
+	width: 100%;
+	height: 20%;
+	min-height: 50px;
+	margin-top: 2%;
+	background: #212121;
+	border: none;
+	color: #fff;
+}
+
+.button:hover{
+	background: #D50000;
+	cursor: pointer;
+}
+
+#box{
+	width: 30%;
+	height: 70%;
+	min-width: 120px;
+	min-height: 200px;
+	background: #fff;
+	margin: 0 auto;
+}
+
+.input{
+	width: 100%;
+	height: 10%;
+	min-height: 20px;
+	margin-top: 2%;
+	padding: 2%;
+	background: #212121;
+	border: none;
+	color: #fff;
+}
+
+#menuButtons{
+	list-style-type: none;
+	padding-left: 0%;
+}
+
+#menuButtons a{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 15px;
+}
+
+#menuButtons li{
+	text-align: center;
+}
+
+.panel-heading {
+    padding: 12px 15px;
+    border: 1px solid #cecfd5;
+    border-radius: 6px;    
+    background-color: #212121;
+    width: auto;
+	color: #fff;
+	text-align: center;
+}
+
+input, select, textarea {
+	border: 1px solid;
+	border-radius: 4px;
+	width: 50%;
+	min-height: 20px;	
+	padding-left: 5px;
+	padding-right: 5px;	
+}
+
+h5{
+	margin-bottom: 0px;
+	margin-top: 5px;
+	width: 50%;
+	padding: 1%;
+	border-radius: 6px;    
+    background-color: #F5F5F5;
+}
+
+.align-form{
+	width: 50%;
+	margin: auto;
+}
+
+#ButtonForLinkWithA{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 15px;
+}
+
+
+

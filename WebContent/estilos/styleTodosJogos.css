@@ -1,0 +1,93 @@
+/*
+	Authoress: Vivianny Santos;
+	Modificado: 13/03/2016
+*/
+
+/**************************************************************************
+	Configurações da pagina de todos os jogos  Authoress: Vivianny Santos;
+**************************************************************************/
+
+body{
+	width: 99%;
+	height: 100%;
+
+}
+
+#todosJogos{
+	width: 50%;
+	height: 100%;
+	margin-left: 8%;
+	float:left;
+	
+}
+
+.imgtr
+{
+	margin-left: 1%;
+	max-height: 100%;
+	max-width:  100%;
+}
+
+
+#todosJogos h1{
+	
+	margin-left:30%;
+	
+}
+
+#todosJogos a h1{
+
+	padding-top:5%;
+	padding-left:10%;
+
+}
+
+.listaJogos{
+
+	width: 680px;
+	height: 140px;
+	min-height: 40%;
+	min-width: 190px;
+
+}
+
+.listaJogos img{
+	width:  30%;
+	height: 30%;
+	float:left;
+}
+
+.listaJogos a{
+	display: block;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

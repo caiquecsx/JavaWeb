@@ -1,0 +1,28 @@
+/*	
+	Author: Iuri Brindeiro;
+	Modificado: 13/03/2016
+*/
+
+/****************************************************************
+	Configurações do form Author: Iuri Brindeiro;
+*****************************************************************/
+
+input[type="text"], input[type="date"], select{	
+	width: 399px;
+	height: 28px;
+	border: 1px solid;
+	border-radius: 4px;	
+}
+
+a:link {
+    text-decoration: none;
+}
+
+fieldset {
+	border: 1px solid;
+	border-radius: 4px;		
+	width: 370px;
+}
+
+
+
